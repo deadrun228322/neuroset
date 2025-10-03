@@ -1,0 +1,11 @@
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\bin\Debug\MO_31_1_Aksyutenko_Neiro.exe.config
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\bin\Debug\MO_31_1_Aksyutenko_Neiro.exe
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\bin\Debug\MO_31_1_Aksyutenko_Neiro.pdb
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.csproj.AssemblyReference.cache
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.Properties.Resources.resources
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.csproj.GenerateResource.cache
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.csproj.CoreCompileInputs.cache
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.exe
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.pdb
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.exe.config
+C:\Users\orbis\OneDrive\Рабочий стол\csh\MO_31_1_Aksyutenko_Neiro\MO_31_1_Aksyutenko_Neiro\obj\Debug\MO_31_1_Aksyutenko_Neiro.Form1.resources
