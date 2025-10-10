@@ -111,7 +111,7 @@ namespace MO_31_1_Aksyutenko_Neiro.Neuronet
                     File.WriteAllLines(path, tempStrWeights);
                     break;
 
-                case MemoryMode.INIT:
+                 case MemoryMode.INIT:
                     tempStrWeights = new string[size];
                     Random random = new Random();
 
@@ -119,8 +119,14 @@ namespace MO_31_1_Aksyutenko_Neiro.Neuronet
                     {
                         for (int j = 0; j < prevSize + 1; j++)
                         {
-                            double randomNumber = random.NextDouble();
-                            weights[i, j] = randomNumber * 0.98 + 0.01;
+                            if (random.Next(2) == 0)
+                            {
+                                weights[i, j] = -random.NextDouble() - 0.01;
+                            }
+                            else
+                            {
+                                weights[i, j] = random.NextDouble() + 0.01;
+                            }
                             tempStrWeights[i] += weights[i, j].ToString() + "; ";
                         }
                     }
@@ -133,3 +139,4 @@ namespace MO_31_1_Aksyutenko_Neiro.Neuronet
         }
     }
 }
+
